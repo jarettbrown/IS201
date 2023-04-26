@@ -1,0 +1,31 @@
+.chocolate {
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: darkslategrey;
+}
+
+#top {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: darkolivegreen;
+}
+
+.emphasizedtext{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: chocolate;
+    text-align: left;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.centered {
+    font-family: cursive;
+    font-style: normal;
+    color: firebrick;
+    text-align: center;
+}
